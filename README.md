@@ -1,4 +1,4 @@
-# LaundryMachine-
+# LaundryMachine
 Design of a Laundry Machine on LabVIEW with three different washing programs: 
 
 The Laundry Machine Programs:
